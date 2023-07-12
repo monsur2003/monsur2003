@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monsur2003&label=Profile%20views&color=0e75b6&style=flat" alt="monsur2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monsur2003" alt="monsur2003" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monsur2003" alt="monsur2003" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p>About me <img width='50' height='50' src='https://camo.githubusercontent.com/c70e68d2c6c53fc82d454a10671f340528b0c1f1c03467d8ed2cbb4113ee5105/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f5a474870577a644f456b4d4b74774c7164632f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966' /> </p>
 
 -  🌱 I’m currently learning **React native & wordpress**
 
@@ -33,5 +33,5 @@
 <p><a href="https://ko-fi.com/Black Coffe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Black Coffe" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsur2003&show_icons=true&locale=en&layout=compact" alt="monsur2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monsur2003&show_icons=true&locale=en" alt="monsur2003" /></p>
+<!-- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monsur2003&show_icons=true&locale=en" alt="monsur2003" /></p> -->
