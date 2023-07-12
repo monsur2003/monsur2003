@@ -1,5 +1,5 @@
 <p align='center'><img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="monsur2003" /></p>
-<h1 align="center">Hi <img src='https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif' /> , I'm Monsur</h1>
+<h1 align="center">Hi <img width="50" height="50" src='https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif' /> , I'm Monsur</h1>
 <h2 align="center">A passionate frontend developer from <small>BD</small> </h2> 
 <p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=monsur2003&" alt="monsur2003" /></p>
 
